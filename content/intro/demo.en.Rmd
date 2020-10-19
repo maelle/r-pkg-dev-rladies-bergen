@@ -21,3 +21,23 @@ output: hugodown::md_document
 * `usethis::use_r("current-time")`
 
 * `devtools::load()`, `what_time()`
+
+* Insert roxygen2 skeleton.
+
+* `devtools::document()`, `?what_time`
+
+* `devtools::check()`, `usethis::use_mit_license` 
+
+* add an argument, `@param language blabla` in docs, `devtools::document()`, `?what_time`
+
+* `usethis::use_test("current-time")`
+
+* `devtools::test()`
+
+* `use_package("praise")`
+
+* `usethis::use_readme_rmd()`, write stuff
+
+* `usethis::use_github()`
+
+* `install.packages("pkgdown")`, GitHub actions
