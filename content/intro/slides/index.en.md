@@ -4,9 +4,9 @@ outputs:
 title: Become an R Package Developer!
 hidden: true
 layout: list
-weight: 1
+weight: 11
 output: hugodown::md_document
-rmd_hash: 39b90c98a6b2d346
+rmd_hash: 9852c6079a3aa7e6
 
 ---
 
@@ -37,13 +37,26 @@ But... I've been to Norway two times when I was an intern in Gothenburg, Sweden!
 My R package development creds
 ------------------------------
 
--   Volunteer editor for rOpenSci Software Peer Review
+-   Volunteer editor for [rOpenSci Software Peer Review](https://ropensci.org/software-review)
 
--   At work, maintenance of rOpenSci dev guide
+-   At work, maintenance of [rOpenSci dev guide](https://devguide.ropensci.org)
 
--   Created the R-hub blog (:wave: guest author Julia!)
+-   Created the [R-hub blog](https://blog.r-hub.io) (:wave: [guest author Julia](https://blog.r-hub.io/2020/01/08/cran-error/)!)
 
--   Working on the HTTP testing in R book
+-   Working on the [HTTP testing in R](https://books.ropensci.org/http-testing/) book
+
+------------------------------------------------------------------------
+
+Why develop an R package?
+-------------------------
+
+Easiest way to share code/data/R Markdown templates... with
+
+-   (future) you,
+
+-   the collaborators you know,
+
+-   and the collaborators you don't.
 
 ------------------------------------------------------------------------
 

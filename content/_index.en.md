@@ -4,6 +4,9 @@ title: "Become an R Package Developer!"
 
 # Become an R Package Developer!
 
+> Monday, November the 2d, 2020. 15:30 to 17:30 UTC+1.
+> [Event info on Meetup](https://www.meetup.com/fr-FR/rladies-bergen/events/273923747/)
+
 "Develop an R package", they said...
 What does this even mean?
 In this session with a live demo, we shall demystify the creation of an R package.

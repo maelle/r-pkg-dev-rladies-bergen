@@ -1,6 +1,6 @@
 ---
 title: Pre-requisites
-weight: 5
+weight: 1
 ---
 
 Before you start writing packages...
