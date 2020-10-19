@@ -6,7 +6,7 @@ hidden: true
 layout: list
 weight: 11
 output: hugodown::md_document
-rmd_hash: 353308dcfe6eafb9
+rmd_hash: fc89eb906283a962
 
 ---
 
@@ -130,4 +130,11 @@ Get to know an actually useful Clippy, `{usethis}`!
 {{< tweet 935562495816753153 >}}
 
 ------------------------------------------------------------------------
+
+Time for a demo :rocket:
+------------------------
+
+Notes on the [course website](/intro/demo)
+
+Also refer to the [Whole game chapter of the R packages book by Hadley Wickham and Jenny Bryan](https://r-pkgs.org/whole-game.html)
 

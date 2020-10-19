@@ -7,3 +7,10 @@ disableToc: false
 ---
 
 For copy-pasting during demos.
+
+```r
+what_time <- function() {
+  time <- format(Sys.time(), "%H:%M")
+  sprintf("It is %s now!", time)
+}
+```

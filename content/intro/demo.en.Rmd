@@ -1,0 +1,23 @@
+---
+title: Demo
+weight: 1
+output: hugodown::md_document
+---
+
+## System setup
+
+* `install.packages("devtools")`. [Setup chapter of the R packages book](https://r-pkgs.org/setup.html).
+
+* usethis and devtools setup in my .Rprofile. `usethis::edit_r_profile()`
+
+## Package creation
+
+* `usethis::create_package("/home/maelle/Documents/teaching/minipkg")`
+
+* `usethis::use_git()`
+
+* in a shell `git branch -m master main`
+
+* `usethis::use_r("current-time")`
+
+* `devtools::load()`, `what_time()`
