@@ -2,7 +2,7 @@
 title: Demo
 weight: 1
 output: hugodown::md_document
-rmd_hash: 80bc6c955c11e210
+rmd_hash: fb164b4b24198814
 
 ---
 
@@ -15,6 +15,8 @@ System setup
 
 Package creation
 ----------------
+
+-   [`available::available("minipkg")`](https://rdrr.io/pkg/available/man/available.html)
 
 -   [`usethis::create_package("/home/maelle/Documents/teaching/minipkg")`](https://usethis.r-lib.org/reference/create_package.html)
 

@@ -12,6 +12,8 @@ output: hugodown::md_document
 
 ## Package creation
 
+* `available::available("minipkg")`
+
 * `usethis::create_package("/home/maelle/Documents/teaching/minipkg")`
 
 * `usethis::use_git()`
