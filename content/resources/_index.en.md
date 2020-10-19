@@ -17,3 +17,5 @@ menuTitle: Resources
 * [Writing R Extensions](https://cran.r-project.org/doc/manuals/R-exts.html) (one piece at a time)
 
 * [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham
+
+* My own blog post with many links to fantastic resources: ["How to develop good R packages"](http://www.masalmon.eu/2017/12/11/goodrpackages/)
