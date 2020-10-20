@@ -36,10 +36,18 @@ output: hugodown::md_document
 
 * `devtools::test()`
 
-* `use_package("praise")`
+* `devtools::check()`
+
+*  modify function, `use_package("praise")`
+
+* `devtools::check()`
 
 * `usethis::use_readme_rmd()`, write stuff
 
-* `usethis::use_github()`
+* `usethis::use_github()`,  `usethis::use_github_links()`
 
-* `install.packages("pkgdown")`, GitHub actions
+* `usethis::use_github_action_check_standard()`
+
+* `install.packages("pkgdown")`, `usethis::use_pkgdown()`, `pkgdown::build_site()`
+
+* `usethis::use_github_action("pkgdown")`, change GitHub pages settings of the repo, add URL to pkgdown config and to DESCRIPTION.

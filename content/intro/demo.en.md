@@ -2,7 +2,7 @@
 title: Demo
 weight: 1
 output: hugodown::md_document
-rmd_hash: fb164b4b24198814
+rmd_hash: 2395edbdaa271e9e
 
 ---
 
@@ -40,11 +40,19 @@ Package creation
 
 -   [`devtools::test()`](https://devtools.r-lib.org//reference/test.html)
 
--   `use_package("praise")`
+-   [`devtools::check()`](https://devtools.r-lib.org//reference/check.html)
+
+-   modify function, `use_package("praise")`
+
+-   [`devtools::check()`](https://devtools.r-lib.org//reference/check.html)
 
 -   [`usethis::use_readme_rmd()`](https://usethis.r-lib.org/reference/use_readme_rmd.html), write stuff
 
--   [`usethis::use_github()`](https://usethis.r-lib.org/reference/use_github.html)
+-   [`usethis::use_github()`](https://usethis.r-lib.org/reference/use_github.html), [`usethis::use_github_links()`](https://usethis.r-lib.org/reference/use_github_links.html)
 
--   [`install.packages("pkgdown")`](https://rdrr.io/r/utils/install.packages.html), GitHub actions
+-   [`usethis::use_github_action_check_standard()`](https://usethis.r-lib.org/reference/use_github_action.html)
+
+-   [`install.packages("pkgdown")`](https://rdrr.io/r/utils/install.packages.html), [`usethis::use_pkgdown()`](https://usethis.r-lib.org/reference/use_pkgdown.html), [`pkgdown::build_site()`](https://pkgdown.r-lib.org/reference/build_site.html)
+
+-   [`usethis::use_github_action("pkgdown")`](https://usethis.r-lib.org/reference/use_github_action.html), change GitHub pages settings of the repo, add URL to pkgdown config and to DESCRIPTION.
 
