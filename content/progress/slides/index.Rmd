@@ -11,7 +11,7 @@ countdown: true
 
 # How to improve your R package
 
-Automatically ✨, and not 🧠"
+Automatically ✨, and not 🧠
 
 ---
 
@@ -21,13 +21,9 @@ Automatically ✨, and not 🧠"
 
 ---
 
-# Assessing your package
+## Assessing your package
 
-* [R CMD check or `devtools::check()`](http://r-pkgs.org/check.html) 
-
-
-
-* [`BiocCheck`](https://bioconductor.org/packages/release/bioc/html/BiocCheck.html)
+* [R CMD check or `devtools::check()`](http://r-pkgs.org/check.html), [`BiocCheck`](https://bioconductor.org/packages/release/bioc/html/BiocCheck.html)
 
 
 
@@ -43,16 +39,16 @@ Automatically ✨, and not 🧠"
 
 ---
 
-# Improve metrics by hand?!
+## Improve metrics by hand?!
 
 Yes and no!
 
 ```{=html}
-{{< figure src="yellow-latex-gloves-on-dish-rack-4039452.jpg" alt="Gloves on dish rac" caption="Picture by [Lisa Fotios](https://www.pexels.com/photo/yellow-latex-gloves-on-dish-rack-4039452/)" width=500 >}}
+{{< figure src="yellow-latex-gloves-on-dish-rack-4039452.jpg" alt="Gloves on dish rac" caption="Picture by [Lisa Fotios](https://www.pexels.com/photo/yellow-latex-gloves-on-dish-rack-4039452/)" width=200 >}}
 ```
 ---
 
-# Tools for improving
+## Tools for improving
 
 
 
@@ -72,18 +68,18 @@ Yes and no!
 
 ---
 
-# When and where to use the tools?
+## When and where to use the tools?
 
 Right after my talk (not now 😜), but then?
 
 
 ```{=html}
-{{< figure src="photo-of-planner-and-writing-materials-760710.jpg" alt="Planner" caption="Picture by [Bich Tran](https://www.pexels.com/photo/photo-of-planner-and-writing-materials-760710/)" width=500 >}}
+{{< figure src="photo-of-planner-and-writing-materials-760710.jpg" alt="Planner" caption="Picture by [Bich Tran](https://www.pexels.com/photo/photo-of-planner-and-writing-materials-760710/)" width=300 >}}
 ```
 
 ---
 
-# Continuous integration
+## Continuous integration
 
 **Run something every time you make a change**
 
@@ -94,17 +90,17 @@ Travis, GitHub Actions, Circle CI, [`tic` package](https://docs.ropensci.org/tic
 
 ---
 
-# Continuous integration
+## Continuous integration
 
 How to learn?
 
 [Julia Silge's post](https://juliasilge.com/blog/beginners-guide-to-travis/) - [Jim Hester's GitHub Actions talk](https://www.jimhester.com/talk/2020-rsc-github-actions/) - [`usethis` helpers](https://usethis.r-lib.org/reference/index.html#section-continuous-integration)
 
-`r hugodown::embed_tweet("205183124868681728")`
+`r hugodown::embed_tweet("1205183124868681728")`
 
 ---
 
-# More with continuous integration
+## More with continuous integration
 
 Couple a thing (R CMD check? pkgdown site building?) to 
 
@@ -116,20 +112,16 @@ Couple a thing (R CMD check? pkgdown site building?) to
 
 ---
 
-# Pre-commit
+## Pre-commit
 
 
 ```{=html}
-{{< figure src="yellow-latex-gloves-on-dish-rack-4039452.jpg" alt="Gloves on dish rac" caption="Picture by [Lisa Fotios](https://www.pexels.com/photo/yellow-latex-gloves-on-dish-rack-4039452/)" width=500 >}}
+{{< figure src="mara.jpg" alt="Tired: Always remember to do things well. Wired: Use continuous integration to notice wrong stuff" caption="Illustration by [Mara Averick](https://twitter.com/dataandme/status/1255510799273132032)" width=400 >}}
 ```
- <img src="img/mara.jpg" alt="Tired: Always remember to do things well. Wired: Use continuous integration to notice wrong stuff
-. Inspired: Use precommit to not even commit wrong stuff" style="width:60%">
-
-.small[Illustration by [Mara Averick](https://twitter.com/dataandme/status/1255510799273132032)]
 
 ---
 
-# Pre-commit
+## Pre-commit
 
 [`precommit` R package](https://lorenzwalthert.github.io/precommit/) -- Python [precommit framework](https://pre-commit.com/)
 
@@ -137,14 +129,9 @@ Couple a thing (R CMD check? pkgdown site building?) to
 
 * Hooks for styling, parsable R code, spell checks, etc.
 
- <img src="img/person-holding-purple-crochet-hook-and-white-yarn-3945638.jpg" alt="Purple crochet hook" style="width:50%">
-
-.small[Picture by [Castorly Stock](https://www.pexels.com/photo/person-holding-purple-crochet-hook-and-white-yarn-3945638/)]
-
 ---
 
-# Check things before show time
-
+## Check things before show time
 
 
 CRAN release! 🐉 Checks on different platforms, URLs, spell checks...
@@ -157,17 +144,16 @@ CRAN release! 🐉 Checks on different platforms, URLs, spell checks...
 
 ---
 
-# Improve workflow vs. procrastinate
+## Improve workflow vs. procrastinate
 
 Risk of spending too much time on [meta-work](https://youtu.be/dIjKJjzRX_E?t=633).
 
+As a beginner, easier to create good habits. :wink:
 
 ```{=html}
-{{< figure src="yellow-latex-gloves-on-dish-rack-4039452.jpg" alt="Gloves on dish rac" caption="Picture by [Lisa Fotios](https://www.pexels.com/photo/yellow-latex-gloves-on-dish-rack-4039452/)" width=500 >}}
+{{< figure src="pedro-da-silva-unEmGQqdO7Q-unsplash.jpg" alt="Stop sign with photoshoped street names: 'Homework Ave' and 'Procrastination Pk'." caption="Picture by [Pedro da Silva](https://unsplash.com/photos/unEmGQqdO7Q)" width=200 >}}
 ```
- <img src="img/pedro-da-silva-unEmGQqdO7Q-unsplash.jpg" alt="Stop sign with photoshoped street names: 'Homework Ave' and 'Procrastination Pk'." style="width:50%">
 
-.small[Picture by [Pedro da Silva](https://unsplash.com/photos/unEmGQqdO7Q)]
 
 ---
 
@@ -177,7 +163,7 @@ Risk of spending too much time on [meta-work](https://youtu.be/dIjKJjzRX_E?t=633
 
 ---
 
-# Why read source code
+## Why read source code
 
 * You want to know what is going on.
 
@@ -189,7 +175,7 @@ Risk of spending too much time on [meta-work](https://youtu.be/dIjKJjzRX_E?t=633
 
 ---
 
-# How to read source code
+## How to read source code
 
 * [`lookup` package](https://github.com/jimhester/lookup#readme)
 
@@ -197,19 +183,9 @@ Risk of spending too much time on [meta-work](https://youtu.be/dIjKJjzRX_E?t=633
 
 * Mirrors of [CRAN packages](https://github.com/cran) and [R-source](https://github.com/wch/r-source), on GitHub.
 
-
-```{=html}
-{{< figure src="yellow-latex-gloves-on-dish-rack-4039452.jpg" alt="Gloves on dish rac" caption="Picture by [Lisa Fotios](https://www.pexels.com/photo/yellow-latex-gloves-on-dish-rack-4039452/)" width=500 >}}
-```
-
- <img src="img/sereja-ris-g3B53PbBfwU-unsplash.jpg" alt="Kitten looking at a laptop screen" style="width:50%">
-
-.small[Picture by [Sereja Ris](https://unsplash.com/photos/g3B53PbBfwU)]
-
-
 ---
 
-# Reading code...
+## Reading code...
 
 And trying things out!
 
@@ -217,17 +193,9 @@ Fork, clone, and explore!
 
 [Podcast episode "Learning a new codebase", with Patricia Aas](https://www.allthingsgit.com/episodes/learning_a_new_codebase_with_patricia_aas.html)
 
-
-```{=html}
-{{< figure src="yellow-latex-gloves-on-dish-rack-4039452.jpg" alt="Gloves on dish rac" caption="Picture by [Lisa Fotios](https://www.pexels.com/photo/yellow-latex-gloves-on-dish-rack-4039452/)" width=500 >}}
-```
- <img src="img/dimitri-houtteman-93AcQpzcASE-unsplash.jpg" alt="Kitten touching a plant" style="width:40%">
-
-.small[Picture by [Dimitri Houtteman](https://unsplash.com/photos/93AcQpzcASE)]
-
 ---
 
-# Read blogs and fora
+## Read blogs and fora
 
 Blog posts: digested information.
 
@@ -239,7 +207,9 @@ Blog posts: digested information.
 
 * _Your_ blog?
 
+---
 
+## Read blogs and fora
 
 Fora: Help and learn.
 
@@ -251,7 +221,7 @@ Fora: Help and learn.
 
 ---
 
-# rOpenSci Software Peer Review
+## rOpenSci Software Peer Review
 
 
 
@@ -262,10 +232,16 @@ Interesting for authors, and reviewers!
 [Online book of best practice](https://devguide.ropensci.org/) for the reviews and package development.
 
 
+---
 
-🚀 Even more review and best practice on the way! [rOpenSci Statistical Software Peer Review](https://ropenscilabs.github.io/statistical-software-peer-review/)
+## rOpenSci Software Peer Review
 
 
+🚀 Even more review and best practice on the way! [rOpenSci Statistical Software Peer Review](https://ropensci.org/stat-software-review/)
+
+---
+
+## Other venues
 
 See also JOSS, R Journal, JSS.
 
