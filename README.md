@@ -2,7 +2,7 @@
 # Scientific blogging with R Markdown
 
 <!-- badges: start -->
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e2088857-5ed5-41b6-8f94-42943d4acc33/deploy-status)](https://app.netlify.com/sites/bloguearrr/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f22fafc1-d0ad-4953-9a19-fec35f797777/deploy-status)](https://app.netlify.com/sites/new-r-dev/deploys)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 <!-- badges: end -->
 
