@@ -10,6 +10,8 @@ menuTitle: Resources
 
 * [R Packages book](https://r-pkgs.org) by Hadley Wickham and Jenny Bryan
 
+* [Jim Hester's talk "You can make a package in 20 minutes"](https://www.jimhester.com/talk/2018-rsc-r-pkgs/)
+
 * [rOpenSci dev guide](https://devguide.ropensci.org)
 
 * [Tidyverse design guide](https://design.tidyverse.org/)
@@ -21,6 +23,16 @@ menuTitle: Resources
 * [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham
 
 * My own blog post with many links to fantastic resources: ["How to develop good R packages"](http://www.masalmon.eu/2017/12/11/goodrpackages/)
+
+## Continuous integration in particular
+
+* [A Beginner's Guide to Travis-CI for R](https://juliasilge.com/blog/beginners-guide-to-travis/) by Julia Silge
+
+* [GitHub Actions for R](https://www.jimhester.com/talk/2020-rsc-github-actions/) by Jim Hester
+
+## CRAN submissions
+
+* [You CRAN Do I](https://ivelasq.rbind.io/blog/you-cran-do-it/) by Julia Velásquez (including a link to other resources at the end)
 
 ## Things we saw in my .Rprofile
 

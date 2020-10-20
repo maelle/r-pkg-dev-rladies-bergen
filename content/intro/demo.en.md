@@ -2,7 +2,7 @@
 title: Demo
 weight: 1
 output: hugodown::md_document
-rmd_hash: 2395edbdaa271e9e
+rmd_hash: c51a5d1ab43a1530
 
 ---
 
@@ -50,9 +50,13 @@ Package creation
 
 -   [`usethis::use_github()`](https://usethis.r-lib.org/reference/use_github.html), [`usethis::use_github_links()`](https://usethis.r-lib.org/reference/use_github_links.html)
 
+-   Build and reload (install packages from RStudio build tab), try using the package from another session. Or install from GitHub.
+
 -   [`usethis::use_github_action_check_standard()`](https://usethis.r-lib.org/reference/use_github_action.html)
 
 -   [`install.packages("pkgdown")`](https://rdrr.io/r/utils/install.packages.html), [`usethis::use_pkgdown()`](https://usethis.r-lib.org/reference/use_pkgdown.html), [`pkgdown::build_site()`](https://pkgdown.r-lib.org/reference/build_site.html)
+
+-   [`usethis::use_release_issue()`](https://usethis.r-lib.org/reference/use_release_issue.html) for information
 
 -   [`usethis::use_github_action("pkgdown")`](https://usethis.r-lib.org/reference/use_github_action.html), change GitHub pages settings of the repo, add URL to pkgdown config and to DESCRIPTION.
 

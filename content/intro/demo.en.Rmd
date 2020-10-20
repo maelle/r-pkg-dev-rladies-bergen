@@ -46,8 +46,12 @@ output: hugodown::md_document
 
 * `usethis::use_github()`,  `usethis::use_github_links()`
 
+* Build and reload (install packages from RStudio build tab), try using the package from another session. Or install from GitHub.
+
 * `usethis::use_github_action_check_standard()`
 
 * `install.packages("pkgdown")`, `usethis::use_pkgdown()`, `pkgdown::build_site()`
+
+* `usethis::use_release_issue()` for information
 
 * `usethis::use_github_action("pkgdown")`, change GitHub pages settings of the repo, add URL to pkgdown config and to DESCRIPTION.

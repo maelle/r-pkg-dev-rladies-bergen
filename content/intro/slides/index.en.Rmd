@@ -133,3 +133,37 @@ Get to know an actually useful Clippy, `{usethis}`!
 Notes on the [course website](/intro/demo)
 
 Also refer to the [Whole game chapter of the R packages book by Hadley Wickham and Jenny Bryan](https://r-pkgs.org/whole-game.html)
+
+---
+
+## Back from the demo
+
+* `devtools::load_all()` (and then install)
+
+* `{usethis}` for all the things.
+
+---
+
+## So what's really hard?
+
+* Writing good code
+
+* Writing a good interface
+
+* Writing good docs
+
+---
+
+## More with packages
+
+* `usethis::use_rmarkdown_template()`
+
+* packaging a Shiny app (look for examples, and [golemverse](https://golemverse.org/))
+
+* Reproducible analyses, [research compendium](https://annakrystalli.me/rrresearch/10_compendium.html)
+
+---
+
+## Less with packages
+
+Miles McBain's post ["Project as an R package: An okay idea"](https://milesmcbain.xyz/posts/an-okay-idea/)
