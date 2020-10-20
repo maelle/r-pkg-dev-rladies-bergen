@@ -50,7 +50,7 @@ weight = 40
 
 [params]
   editURL = "https://github.com/maelle/r-pkg-dev-rladies-bergen/edit/main/content/"
-  description = "Bloguear con R Markdown"
+  description = "Become an R Package Developer!"
   author = "Maëlle Salmon"
   showVisitedLinks = true
   disableBreadcrumb = false
