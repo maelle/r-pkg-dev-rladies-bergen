@@ -6,7 +6,7 @@ hidden: true
 layout: list
 weight: 11
 output: hugodown::md_document
-rmd_hash: be0204dacda9b6af
+rmd_hash: 4ee76ffc42b12dce
 
 ---
 
@@ -148,9 +148,9 @@ Further resources
 
 -   [book "Working in Public: The Making and Maintenance of Open Source Software"](https://www.goodreads.com/book/show/54140556-working-in-public) by Nadia Eghbal
 
--   [rOpenSci contributing guide](https://contributing.ropensci.org/)
+-   [rOpenSci contributing guide](https://contributing.ropensci.org/) by Stefanie Butland and Steffi LaZerte
 
--   [rOpenSci collaborating guide](https://devguide.ropensci.org/collaboration.html)
+-   [rOpenSci collaborating guide](https://devguide.ropensci.org/collaboration.html) by the rOpenSci editorial team
 
 ------------------------------------------------------------------------
 

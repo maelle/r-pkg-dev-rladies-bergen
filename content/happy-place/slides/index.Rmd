@@ -139,9 +139,9 @@ This was a very brief presentation, and a complex topic.
 
 * [book "Working in Public: The Making and Maintenance of Open Source Software"](https://www.goodreads.com/book/show/54140556-working-in-public) by Nadia Eghbal
 
-* [rOpenSci contributing guide](https://contributing.ropensci.org/)
+* [rOpenSci contributing guide](https://contributing.ropensci.org/) by Stefanie Butland and Steffi LaZerte
 
-* [rOpenSci collaborating guide](https://devguide.ropensci.org/collaboration.html)
+* [rOpenSci collaborating guide](https://devguide.ropensci.org/collaboration.html) by the rOpenSci editorial team
 
 ---
 
