@@ -7,7 +7,7 @@ layout: list
 weight: 11
 output: hugodown::md_document
 countdown: true
-rmd_hash: 330170e7b9666c4c
+rmd_hash: ed2dd8ff3d294f32
 
 ---
 
@@ -129,6 +129,15 @@ Get to know an actually useful Clippy, `{usethis}`!
 ----------------
 
 {{< tweet 935562495816753153 >}}
+
+------------------------------------------------------------------------
+
+Website tour
+------------
+
+:link: <a href="https://tiny.cc/r-pkg" class="uri">https://tiny.cc/r-pkg</a>
+
+Slides, notes from the demo, further resources, comments!
 
 ------------------------------------------------------------------------
 

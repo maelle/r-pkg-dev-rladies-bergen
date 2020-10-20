@@ -1,0 +1,9 @@
+---
+outputs:
+- Reveal
+title: How to improve your R package
+hidden: true
+layout: list
+weight: 11
+output: hugodown::md_document
+---
