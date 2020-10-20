@@ -1,5 +1,5 @@
 
-# Scientific blogging with R Markdown
+# Become an R package developer!
 
 <!-- badges: start -->
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f22fafc1-d0ad-4953-9a19-fec35f797777/deploy-status)](https://app.netlify.com/sites/new-r-dev/deploys)
