@@ -6,7 +6,8 @@ hidden: true
 layout: list
 weight: 11
 output: hugodown::md_document
-rmd_hash: fc89eb906283a962
+countdown: true
+rmd_hash: 330170e7b9666c4c
 
 ---
 
@@ -30,7 +31,7 @@ But... I've been to Norway two times when I was an intern in Gothenburg, Sweden!
 
 ------------------------------------------------------------------------
 
-{{< figure src="evenstad.JPG" alt="Maëlle standing and laughing on a dirt road" caption="Me in (near?) Evenstad, 2010" width=500 >}}
+{{< figure src="evenstad.JPG" alt="Maëlle standing and laughing on a dirt road" caption="Me in (near?) Evenstad, 2010. Picture by Anne-Sophie Bonnet-Lebrun" width=500 >}}
 
 ------------------------------------------------------------------------
 
@@ -137,4 +138,75 @@ Time for a demo :rocket:
 Notes on the [course website](/intro/demo)
 
 Also refer to the [Whole game chapter of the R packages book by Hadley Wickham and Jenny Bryan](https://r-pkgs.org/whole-game.html)
+
+------------------------------------------------------------------------
+
+Back from the demo
+------------------
+
+-   [`devtools::load_all()`](https://devtools.r-lib.org//reference/load_all.html) (and then install)
+
+-   `{usethis}` for all the things.
+
+------------------------------------------------------------------------
+
+R CMD check (devtools::check())
+-------------------------------
+
+{{< figure src="sign.JPG" alt="Sign near a dirt road, indicating there might be farm animals" caption="Picture by Anne-Sophie Bonnet-Lebrun" width=500 >}}
+
+------------------------------------------------------------------------
+
+So what's really hard?
+----------------------
+
+-   Writing good code
+
+-   Writing a good interface
+
+-   Writing good docs
+
+------------------------------------------------------------------------
+
+More with packages
+------------------
+
+-   [`usethis::use_rmarkdown_template()`](https://usethis.r-lib.org/reference/use_rmarkdown_template.html)
+
+-   distributing data [`usethis::use_data()`](https://usethis.r-lib.org/reference/use_data.html)
+
+-   packaging a Shiny app (look for examples, and [golemverse](https://golemverse.org/))
+
+-   Reproducible analyses, [research compendium](https://annakrystalli.me/rrresearch/10_compendium.html)
+
+------------------------------------------------------------------------
+
+Less with packages
+------------------
+
+-   If developing a package for wider distribution, check it does not exist yet.
+
+-   Miles McBain's post ["Project as an R package: An okay idea"](https://milesmcbain.xyz/posts/an-okay-idea/)
+
+------------------------------------------------------------------------
+
+Questions?
+----------
+
+Write them in the Zoom chat, or as a comment in the course website, or as an issue in the course repository.
+
+------------------------------------------------------------------------
+
+Time for a break! :coffee:
+--------------------------
+
+<!--html_preserve-->
+
+<div id="timer_hugo" class="countdown" style="top:100;left:0;" data-warnwhen="0">
+
+<code class="countdown-time"><span class="countdown-digits minutes">05</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+
+</div>
+
+<!--/html_preserve-->
 

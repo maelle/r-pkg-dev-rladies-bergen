@@ -6,6 +6,7 @@ hidden: true
 layout: list
 weight: 11
 output: hugodown::md_document
+countdown: true
 ---
 
 # Become an R Package Developer!
@@ -29,7 +30,7 @@ But... I've been to Norway two times when I was an intern in Gothenburg, Sweden!
 ---
 
 ```{=html}
-{{< figure src="evenstad.JPG" alt="Maëlle standing and laughing on a dirt road" caption="Me in (near?) Evenstad, 2010" width=500 >}}
+{{< figure src="evenstad.JPG" alt="Maëlle standing and laughing on a dirt road" caption="Me in (near?) Evenstad, 2010. Picture by Anne-Sophie Bonnet-Lebrun" width=500 >}}
 ```
 ---
 
@@ -144,6 +145,14 @@ Also refer to the [Whole game chapter of the R packages book by Hadley Wickham a
 
 ---
 
+## R CMD check (devtools::check())
+
+```{=html}
+{{< figure src="sign.JPG" alt="Sign near a dirt road, indicating there might be farm animals" caption="Picture by Anne-Sophie Bonnet-Lebrun" width=500 >}}
+```
+
+---
+
 ## So what's really hard?
 
 * Writing good code
@@ -158,6 +167,8 @@ Also refer to the [Whole game chapter of the R packages book by Hadley Wickham a
 
 * `usethis::use_rmarkdown_template()`
 
+* distributing data `usethis::use_data()`
+
 * packaging a Shiny app (look for examples, and [golemverse](https://golemverse.org/))
 
 * Reproducible analyses, [research compendium](https://annakrystalli.me/rrresearch/10_compendium.html)
@@ -166,4 +177,27 @@ Also refer to the [Whole game chapter of the R packages book by Hadley Wickham a
 
 ## Less with packages
 
-Miles McBain's post ["Project as an R package: An okay idea"](https://milesmcbain.xyz/posts/an-okay-idea/)
+* If developing a package for wider distribution, check it does not exist yet. 
+
+* Miles McBain's post ["Project as an R package: An okay idea"](https://milesmcbain.xyz/posts/an-okay-idea/)
+
+---
+
+## Questions?
+
+Write them in the Zoom chat, or as a comment in the course website, or as an issue in the course repository.
+
+---
+
+## Time for a break! :coffee:
+
+
+<!--html_preserve-->
+
+<div id="timer_hugo" class="countdown" style="top:100;left:0;" data-warnwhen="0">
+
+<code class="countdown-time"><span class="countdown-digits minutes">05</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+
+</div>
+
+<!--/html_preserve-->
