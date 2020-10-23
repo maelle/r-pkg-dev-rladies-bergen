@@ -61,7 +61,7 @@ Easiest way to share code/data/R Markdown templates... with
 
 ## Why learning about package development?
 
-[Jon Calder](https://joncalder.co.za/)'s very good wording
+[Jon Calder](https://joncalder.co.za/)'s very good [wording](https://github.com/iandurbach/datasci-fi/tree/master/docs/packages/slides)
 
 * To share code (and data)
 

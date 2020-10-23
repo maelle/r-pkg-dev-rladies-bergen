@@ -7,7 +7,7 @@ layout: list
 weight: 11
 output: hugodown::md_document
 countdown: true
-rmd_hash: ed2dd8ff3d294f32
+rmd_hash: 3b8b4a1b0e49d7ea
 
 ---
 
@@ -64,7 +64,7 @@ Easiest way to share code/data/R Markdown templates... with
 Why learning about package development?
 ---------------------------------------
 
-[Jon Calder](https://joncalder.co.za/)'s very good wording
+[Jon Calder](https://joncalder.co.za/)'s very good [wording](https://github.com/iandurbach/datasci-fi/tree/master/docs/packages/slides)
 
 -   To share code (and data)
 
