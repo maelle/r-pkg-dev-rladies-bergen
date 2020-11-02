@@ -11,6 +11,8 @@ output: hugodown::md_document
 
 * [R Packages book](https://r-pkgs.org) by Hadley Wickham and Jenny Bryan
 
+* [Shannon Pileggi's "Your first R package in 1 hour"](https://www.pipinghotdata.com/posts/2020-10-25-your-first-r-package-in-1-hour/)
+
 * [Jim Hester's talk "You can make a package in 20 minutes"](https://www.jimhester.com/talk/2018-rsc-r-pkgs/)
 
 * [rOpenSci dev guide](https://devguide.ropensci.org)
@@ -22,8 +24,6 @@ output: hugodown::md_document
 * [Writing R Extensions](https://cran.r-project.org/doc/manuals/R-exts.html) (one piece at a time)
 
 * [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham
-
-* [Shannon Pileggi's "Your first R package in 1 hour"](https://www.pipinghotdata.com/posts/2020-10-25-your-first-r-package-in-1-hour/)
 
 * My own blog post with many links to fantastic resources: ["How to develop good R packages"](http://www.masalmon.eu/2017/12/11/goodrpackages/)
 

@@ -5,7 +5,7 @@ chapter: false
 slides: false
 menuTitle: Resources
 output: hugodown::md_document
-rmd_hash: f59f3d3efa53ea0a
+rmd_hash: e7b8dddf668eba45
 
 ---
 
@@ -13,6 +13,8 @@ R package development
 ---------------------
 
 -   [R Packages book](https://r-pkgs.org) by Hadley Wickham and Jenny Bryan
+
+-   [Shannon Pileggi's "Your first R package in 1 hour"](https://www.pipinghotdata.com/posts/2020-10-25-your-first-r-package-in-1-hour/)
 
 -   [Jim Hester's talk "You can make a package in 20 minutes"](https://www.jimhester.com/talk/2018-rsc-r-pkgs/)
 
@@ -25,8 +27,6 @@ R package development
 -   [Writing R Extensions](https://cran.r-project.org/doc/manuals/R-exts.html) (one piece at a time)
 
 -   [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham
-
--   [Shannon Pileggi's "Your first R package in 1 hour"](https://www.pipinghotdata.com/posts/2020-10-25-your-first-r-package-in-1-hour/)
 
 -   My own blog post with many links to fantastic resources: ["How to develop good R packages"](http://www.masalmon.eu/2017/12/11/goodrpackages/)
 
