@@ -5,7 +5,7 @@ chapter: false
 slides: false
 menuTitle: Resources
 output: hugodown::md_document
-rmd_hash: 35e4130db893f2bd
+rmd_hash: f59f3d3efa53ea0a
 
 ---
 
@@ -26,6 +26,8 @@ R package development
 
 -   [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham
 
+-   [Shannon Pileggi's "Your first R package in 1 hour"](https://www.pipinghotdata.com/posts/2020-10-25-your-first-r-package-in-1-hour/)
+
 -   My own blog post with many links to fantastic resources: ["How to develop good R packages"](http://www.masalmon.eu/2017/12/11/goodrpackages/)
 
 Continuous integration in particular
@@ -39,6 +41,13 @@ CRAN submissions
 ----------------
 
 -   [You CRAN Do I](https://ivelasq.rbind.io/blog/you-cran-do-it/) by Julia Velásquez (including a link to other resources at the end)
+
+From scripts to package
+-----------------------
+
+-   [prefixer package](https://github.com/dreamRs/prefixer), "Prefix function with their namespace".
+
+-   [sinew package](https://yonicd.github.io/sinew/articles/motivation.html)
 
 Things we saw in my .Rprofile
 -----------------------------

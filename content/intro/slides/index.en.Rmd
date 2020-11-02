@@ -36,6 +36,8 @@ But... I've been to Norway two times when I was an intern in Gothenburg, Sweden!
 
 ## My R package development creds
 
+I really :heart: R package development
+
 * Volunteer editor for [rOpenSci Software Peer Review](https://ropensci.org/software-review)
 
 * At work, maintenance of [rOpenSci dev guide](https://devguide.ropensci.org)

@@ -7,7 +7,7 @@ layout: list
 weight: 11
 output: hugodown::md_document
 countdown: true
-rmd_hash: 3b8b4a1b0e49d7ea
+rmd_hash: ac90e67a32440a98
 
 ---
 
@@ -37,6 +37,8 @@ But... I've been to Norway two times when I was an intern in Gothenburg, Sweden!
 
 My R package development creds
 ------------------------------
+
+I really :heart: R package development
 
 -   Volunteer editor for [rOpenSci Software Peer Review](https://ropensci.org/software-review)
 
