@@ -5,7 +5,7 @@ chapter: false
 slides: false
 menuTitle: Resources
 output: hugodown::md_document
-rmd_hash: e7b8dddf668eba45
+rmd_hash: ba4c465261423ff2
 
 ---
 
@@ -40,7 +40,7 @@ Continuous integration in particular
 CRAN submissions
 ----------------
 
--   [You CRAN Do I](https://ivelasq.rbind.io/blog/you-cran-do-it/) by Julia Velásquez (including a link to other resources at the end)
+-   [You CRAN Do It](https://ivelasq.rbind.io/blog/you-cran-do-it/) by Isabella Velásquez (including a link to other resources at the end)
 
 From scripts to package
 -----------------------
